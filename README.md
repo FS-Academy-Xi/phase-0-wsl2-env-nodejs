@@ -4,7 +4,7 @@
 
 Node Version Manager (NVM) is a tool that will allow you to download and install
 multiple versions of Node.js, one of the environments for the JavaScript
-programming language that we teach at Flatiron School. Installing NVM is the
+programming language that we teach at Academy Xi. Installing NVM is the
 first step in installing Node.js on your Ubuntu operating system.
 
 ### Action Item
